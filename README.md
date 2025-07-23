@@ -17,6 +17,12 @@ One of my favorite projects was a QR menu app used by restaurants. It's always r
 
 ## 🚀 Projects
 
+### Settings Package: Laravel
+
+A Laravel package that allows you to store and use your settings as key-value pairs.
+
+👉 [Buraya tıklayarak inceleyebilirsiniz](https://github.com/beytullahk54/settings-package)
+
 ### Go Project: Delayed HTTP Job Queue
 
 Delayed HTTP Job Queue, belirlediğiniz bir adrese, belirlediğiniz zamanda HTTP isteği gönderen basit ve genişletilebilir bir zamanlı kuyruk sistemidir.
