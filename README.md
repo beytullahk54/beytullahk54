@@ -8,7 +8,7 @@ One of my favorite projects was a QR menu app used by restaurants. It's always r
 
 ## 🧠 About Me
 
-- 🔧 10+ years of experience in web development
+- 🔧 11+ years of experience in web development
 - ⚙️ Backend-focused, especially with Laravel
 - 🖥️ Also worked with Vue.js and React
 - 🧩 Enjoy building useful, clean, and scalable solutions
@@ -22,6 +22,12 @@ One of my favorite projects was a QR menu app used by restaurants. It's always r
 A Laravel package that allows you to store and use your settings as key-value pairs.
 
 👉 [Buraya tıklayarak inceleyebilirsiniz](https://github.com/beytullahk54/settings-package)
+
+### Event System: Laravel & Nuxt
+
+A simple event management system built with Laravel (backend) and Nuxt (frontend).
+
+👉 [Buraya tıklayarak inceleyebilirsiniz](https://github.com/beytullahk54/event_ticket_selling_system)
 
 ### Go Project: Delayed HTTP Job Queue
 
