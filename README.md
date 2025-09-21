@@ -17,29 +17,35 @@ One of my favorite projects was a QR menu app used by restaurants. It's always r
 
 ## 🚀 Projects
 
+Express Mailer
+
+A Node.js & Express.js Email Sending Module
+
+👉 [You can check it out by clicking here.](https://github.com/beytullahk54/express-mailer)
+
 ### Settings Package: Laravel
 
 A Laravel package that allows you to store and use your settings as key-value pairs.
 
-👉 [Buraya tıklayarak inceleyebilirsiniz](https://github.com/beytullahk54/settings-package)
+👉 [You can check it out by clicking here.](https://github.com/beytullahk54/settings-package)
 
 ### Event System: Laravel & Nuxt
 
 A simple event management system built with Laravel (backend) and Nuxt (frontend).
 
-👉 [Buraya tıklayarak inceleyebilirsiniz](https://github.com/beytullahk54/event_ticket_selling_system)
+👉 [You can check it out by clicking here.](https://github.com/beytullahk54/event_ticket_selling_system)
 
 ### Go Project: Delayed HTTP Job Queue
 
 Delayed HTTP Job Queue, belirlediğiniz bir adrese, belirlediğiniz zamanda HTTP isteği gönderen basit ve genişletilebilir bir zamanlı kuyruk sistemidir.
 
-👉 [Buraya tıklayarak inceleyebilirsiniz](https://github.com/beytullahk54/quego)
+👉 [You can check it out by clicking here.](https://github.com/beytullahk54/quego)
 
 ### 🟢 Nest Project: Temel REST API
 
 NestJS ile geliştirilmiş temel bir REST API projesidir. Basit CRUD işlemleri, yapılandırılmış klasör düzeni ve genişletilebilir mimarisi ile örnek bir başlangıç projesi sunar.
 
-👉 [Buraya tıklayarak inceleyebilirsiniz](https://github.com/beytullahk54/nest_app)
+👉 [You can check it out by clicking here.](https://github.com/beytullahk54/nest_app)
 
 ### 🔹 **Loncasoft E-Commerce**
 We develop e-commerce solutions that allow companies to manage appointments with their customers online.
