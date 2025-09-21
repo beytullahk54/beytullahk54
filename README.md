@@ -17,7 +17,7 @@ One of my favorite projects was a QR menu app used by restaurants. It's always r
 
 ## 🚀 Projects
 
-Express Mailer
+Express Mailer: Express.js \ Node js
 
 A Node.js & Express.js Email Sending Module
 
