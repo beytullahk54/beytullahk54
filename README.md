@@ -9,7 +9,7 @@ One of my favorite projects was a QR menu app used by restaurants. It's always r
 ## 🧠 About Me
 
 - 🔧 11+ years of experience in web development
-- ⚙️ Backend-focused, especially with Laravel
+- ⚙️ Backend-focused, especially with Laravel and Node.js
 - 🖥️ Also worked with Vue.js and React
 - 🧩 Enjoy building useful, clean, and scalable solutions
 
